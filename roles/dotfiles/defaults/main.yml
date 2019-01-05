@@ -40,8 +40,8 @@ dotfile_templates:
   - .notmuch-config
   # - .hammerspoon/iterm.lua
 
-git_user_email: 'vsr625@gmail.com'
-git_user_name: 'vsr625@gmail.com'
+git_user_email: vsr625@gmail.com
+git_user_name: vsr625@gmail.com
 
 imap_nickname: ISP
 imap_server: imap.example.com
